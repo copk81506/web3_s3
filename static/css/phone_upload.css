@@ -435,3 +435,236 @@
     color: white;
   }
 }
+
+@media (min-width: 1920px) {
+  .pic-result,
+  .pic-result * {
+    box-sizing: border-box;
+  }
+  .pic-result {
+    background: #ffffff;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-18 {
+    background: #d9d9d9;
+    width: 1280px;
+    height: 600px;
+    position: absolute;
+    left: 320px;
+    top: 98px;
+  }
+  .abc-jpg {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 933px;
+    top: 511px;
+  }
+  .vector {
+    width: 10.21%;
+    height: 15.86%;
+    position: absolute;
+    right: 44.9%;
+    left: 44.9%;
+    bottom: 59.84%;
+    top: 20.3%;
+    overflow: visible;
+  }
+  .group-7 {
+    position: absolute;
+    inset: 0;
+  }
+  .rectangle-19 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 10.62%;
+    height: 6.25%;
+    position: absolute;
+    right: 44.69%;
+    left: 44.69%;
+    bottom: 38.75%;
+    top: 55%;
+  }
+  .div {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 47.92%;
+    left: 48.39%;
+    width: 3.7%;
+    bottom: 54.4%;
+    top: 43.98%;
+    height: 1.62%;
+  }
+  .group-8 {
+    position: absolute;
+    inset: 0;
+  }
+  .rectangle-192 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 10.62%;
+    height: 6.25%;
+    position: absolute;
+    right: 44.69%;
+    left: 44.69%;
+    bottom: 47.32%;
+    top: 46.43%;
+  }
+  .div2 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 47.92%;
+    left: 48.39%;
+    width: 3.7%;
+    bottom: 47.67%;
+    top: 50.7%;
+    height: 1.62%;
+  }
+  .header {
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 320px;
+    top: 0px;
+    overflow: hidden;
+  }
+  .header2 {
+    background: #ffffff;
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .logo {
+    position: absolute;
+    inset: 0;
+  }
+  .logo2 {
+    background: rgba(158, 129, 129, 0);
+    width: 326px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .div3 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 46.17%;
+    left: 48.28%;
+    width: 5.55%;
+    bottom: 48.7%;
+    top: 48.8%;
+    height: 2.5%;
+  }
+  .leaf-solid-1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 25px;
+    top: 16px;
+    overflow: visible;
+  }
+  .div4 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    left: 96px;
+    top: 22px;
+    width: 135px;
+  }
+  .logo3 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 1071px;
+    top: 13px;
+  }
+  .div5 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1116px;
+    top: 29px;
+    width: 60px;
+  }
+  .div6 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 871px;
+    top: 15px;
+  }
+  .div7 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 907px;
+    top: 31px;
+    width: 79px;
+  }
+
+
+
+  .a_black{
+    color: #000000;
+    text-decoration: none;
+  }
+  .rectangle-193 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 10.62%;
+    height: 6.25%;
+    position: absolute;
+    right: 44.69%;
+    left: 44.69%;
+    bottom: 55.32%;
+    top: 38.43%;
+  }
+  .div8 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 46.17%;
+    left: 48.28%;
+    width: 5.55%;
+    bottom: 56.67%;
+    top: 40.83%;
+    height: 2.5%;
+  }
+  .photo_button{
+    background-color:  rgba(0, 0, 0, 0.5);
+    width: 42.5%;
+    border: none;
+    color: white;
+  }
+}

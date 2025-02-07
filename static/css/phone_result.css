@@ -770,3 +770,372 @@
   }
 
 }
+
+@media (min-width: 480px) {
+  .pic-result,
+  .pic-result * {
+    box-sizing: border-box;
+  }
+  .pic-result {
+    background: #ffffff;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-18 {
+    background: #d9d9d9;
+    width: 1280px;
+    height: 600px;
+    position: absolute;
+    left: 320px;
+    top: 98px;
+  }
+  .simple {
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 779px;
+    height: 458px;
+    position: absolute;
+    left: 381px;
+    top: 173px;
+    object-fit: cover;
+  }
+  .div {
+    position: absolute;
+    inset: 0;
+  }
+  .rectangle-21 {
+    background: #ffffff;
+    width: 314px;
+    height: 458px;
+    position: absolute;
+    left: 1227px;
+    top: 173px;
+  }
+  .div2 {
+    width: 240px;
+    height: 38px;
+    position: static;
+  }
+  .rectangle-22 {
+    background: #d6d6d6;
+    width: 240px;
+    height: 38px;
+    position: absolute;
+    left: 1257px;
+    top: 492px;
+  }
+  .ful-n-ful {
+    width: 138px;
+    height: 22px;
+    position: static;
+  }
+  .ful-n-ful2 {
+    background: #d6d6d6;
+    width: 62.15px;
+    height: 22px;
+    position: absolute;
+    left: 1396.61px;
+    top: 500px;
+  }
+  .div3 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1350px;
+    top: 503px;
+    width: 138px;
+  }
+  .div4 {
+    width: 85px;
+    height: 22px;
+    position: static;
+  }
+  .div5 {
+    background: #d6d6d6;
+    width: 82.86px;
+    height: 22px;
+    position: absolute;
+    left: 1267px;
+    top: 500px;
+  }
+  .div6 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1273.42px;
+    top: 503px;
+    width: 78.58px;
+  }
+  .rectangle-222 {
+    background: #d6d6d6;
+    width: 240px;
+    height: 38px;
+    position: absolute;
+    left: 1256px;
+    top: 428px;
+  }
+  .ful-n-ful3 {
+    width: 151px;
+    height: 22px;
+    position: static;
+  }
+  .ful-n-ful4 {
+    background: #d6d6d6;
+    width: 68px;
+    height: 22px;
+    position: absolute;
+    left: 1406px;
+    top: 435px;
+  }
+  .div7 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1329px;
+    top: 438px;
+    width: 151px;
+  }
+  .div8 {
+    width: 55px;
+    height: 22px;
+    position: static;
+  }
+  .div9 {
+    background: #d6d6d6;
+    width: 53.62px;
+    height: 22px;
+    position: absolute;
+    left: 1270px;
+    top: 435px;
+  }
+  .div10 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1274.15px;
+    top: 438px;
+    width: 50.85px;
+  }
+  .rectangle-223 {
+    background: #d6d6d6;
+    width: 240px;
+    height: 38px;
+    position: absolute;
+    left: 1256px;
+    top: 363px;
+  }
+  .div11 {
+    width: 155px;
+    height: 22px;
+    position: static;
+  }
+  .div12 {
+    background: #d6d6d6;
+    width: 155px;
+    height: 22px;
+    position: absolute;
+    left: 1325px;
+    top: 371px;
+  }
+  ._09-00-00 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 1329px;
+    top: 374px;
+  }
+  .div13 {
+    width: 60px;
+    height: 22px;
+    position: static;
+  }
+  .div14 {
+    background: #d6d6d6;
+    width: 60px;
+    height: 22px;
+    position: absolute;
+    left: 1262px;
+    top: 371px;
+  }
+  .div15 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 1274px;
+    top: 374px;
+  }
+  .rectangle-224 {
+    background: #d6d6d6;
+    width: 240px;
+    height: 38px;
+    position: absolute;
+    left: 1256px;
+    top: 299px;
+  }
+  .div16 {
+    background: #d6d6d6;
+    width: 155px;
+    height: 22px;
+    position: absolute;
+    left: 1325px;
+    top: 307px;
+  }
+  ._2024-12-24 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 1329px;
+    top: 310px;
+  }
+  .div17 {
+    background: #d6d6d6;
+    width: 60px;
+    height: 22px;
+    position: absolute;
+    left: 1262px;
+    top: 307px;
+  }
+  .div18 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 1274px;
+    top: 310px;
+  }
+  .div19 {
+    width: 294px;
+    height: 35px;
+    position: static;
+  }
+  .div20 {
+    background: #d9d9d9;
+    width: 294px;
+    height: 35px;
+    position: absolute;
+    left: 1238px;
+    top: 205px;
+  }
+  .div21 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1257.17px;
+    top: 213px;
+    width: 260.77px;
+  }
+  .header {
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 320px;
+    top: 0px;
+    overflow: hidden;
+  }
+  .header2 {
+    background: #ffffff;
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .logo {
+    position: absolute;
+    inset: 0;
+  }
+  .logo2 {
+    background: rgba(158, 129, 129, 0);
+    width: 326px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .div22 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    left: 96px;
+    top: 22px;
+    width: 135px;
+  }
+  .leaf-solid-1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 25px;
+    top: 16px;
+    overflow: visible;
+  }
+  .logo3 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 1071px;
+    top: 13px;
+  }
+  .div23 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1116px;
+    top: 29px;
+    width: 60px;
+  }
+  .div24 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 871px;
+    top: 15px;
+  }
+  .div25 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 907px;
+    top: 31px;
+    width: 79px;
+  }
+
+}

@@ -465,3 +465,236 @@
         text-decoration: none;
     }
 }
+
+@media (min-width: 1920px) {
+    .analyze-usage-desktop-13,
+    .analyze-usage-desktop-13 * {
+    box-sizing: border-box;
+    }
+    .analyze-usage-desktop-13 {
+    background: #ffffff;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+    }
+    .footer {
+    background: #ffffff;
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 320px;
+    top: 770px;
+    }
+    .header {
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 320px;
+    top: 0px;
+    overflow: hidden;
+    }
+    .header2 {
+    background: #ffffff;
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    }
+    .logo {
+    position: absolute;
+    inset: 0;
+    }
+    .logo2 {
+    background: rgba(158, 129, 129, 0);
+    width: 326px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    }
+    .div {
+    color: #000000;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    left: 96px;
+    top: 22px;
+    width: 135px;
+    }
+    .leaf-solid-1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 25px;
+    top: 16px;
+    overflow: visible;
+    }
+    .div2 {
+    position: absolute;
+    inset: 0;
+    }
+    .logo3 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 1081px;
+    top: 16px;
+    }
+    .div3 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1126px;
+    top: 32px;
+    width: 60px;
+    }
+    .div4 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 902px;
+    top: 16px;
+    }
+    .div5 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 938px;
+    top: 32px;
+    width: 79px;
+    }
+    .div6 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    position: absolute;
+    left: 395px;
+    top: 160px;
+    width: 370px;
+    height: 56px;
+    -webkit-text-stroke: 1px #000000;
+    }
+    .group-2 {
+    position: absolute;
+    inset: 0;
+    }
+    .rectangle-9 {
+    background: #ffffff;
+    width: 570px;
+    height: 500px;
+    position: absolute;
+    left: 370px;
+    top: 270px;
+    }
+    .div7 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    left: 398px;
+    top: 289px;
+    }
+    .div8 {
+    width: 501.69px;
+    height: 366px;
+    position: static;
+    }
+    .div9 {
+    background: #ffffff;
+    width: 501.69px;
+    height: 366px;
+    position: absolute;
+    left: 398px;
+    top: 343px;
+    }
+    .bg-garbage {
+    width: 501.69px;
+    height: 275.02px;
+    position: absolute;
+    left: 398px;
+    top: 343px;
+    object-fit: cover;
+    }
+    .div10 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    left: 580px;
+    top: 653px;
+    width: 197.98px;
+    height: 55.83px;
+    }
+    .group-3 {
+    position: absolute;
+    inset: 0;
+    }
+    .rectangle-92 {
+    background: #ffffff;
+    width: 570px;
+    height: 500px;
+    position: absolute;
+    left: 981px;
+    top: 270px;
+    }
+    .div11 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    left: 1009px;
+    top: 289px;
+    }
+    .div12 {
+    background: #ffffff;
+    width: 501.69px;
+    height: 366px;
+    position: absolute;
+    left: 1009px;
+    top: 343px;
+    }
+    .bg-garbage2 {
+    width: 501.69px;
+    height: 275.02px;
+    position: absolute;
+    left: 1009px;
+    top: 343px;
+    object-fit: cover;
+    }
+    .div13 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: absolute;
+    left: 1191px;
+    top: 653px;
+    width: 197.98px;
+    height: 55.83px;
+    }
+
+    .a_black{
+        color: #000000;
+        text-decoration: none;
+    }
+}

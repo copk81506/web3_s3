@@ -3,13 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>API 資料顯示</title>
+    <title>圖表展示</title>
 </head>
 <body>
-
-    <h1>API 資料顯示</h1>
-
-    <script src="static\js\api_analyze1.js"> </script>
-
+    <h1>這是我的圖表</h1>
+    <img src="{{ url_for('plot') }}" alt="Plot Image">
+    <img src="{{ url_for('plot2') }}" alt="Plot Image2">
 </body>
 </html>
