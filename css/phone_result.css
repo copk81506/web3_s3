@@ -771,7 +771,7 @@
 
 }
 
-@media (min-width: 480px) {
+@media (min-width: 1920px) {
   .pic-result,
   .pic-result * {
     box-sizing: border-box;
